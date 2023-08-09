@@ -1,7 +1,7 @@
 import requests
 import json
 
-URL = "https://ormuspay.com.br/api/v1/login"
+URL = "https://ormuspay.com/api/v1/login"
 HEADERS = {
   "Content-Type": "application/json"
 }
